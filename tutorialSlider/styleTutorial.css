@@ -9,6 +9,8 @@ body {
     margin: 80px auto;
     position: relative;
     overflow: hidden;
+    padding: 10px;
+    background: oldlace;
 }
 
 .slider .left-slide, .slider .right-slide {
@@ -40,6 +42,10 @@ body {
     right: 30px;
 }
 
+
+.slider .slider-items .item {
+overflow: hidden;
+}
 
 .slider .slider-items .item img {
     max-width: 100%;
