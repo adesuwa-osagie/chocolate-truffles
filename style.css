@@ -212,7 +212,7 @@ ul.truffle-bullet {
     width: 2.5rem;
     height: 2.5rem;
     position: absolute;
-    background-image: url(/images-resized/chocolate-ball.png);
+    background-image: url(images-resized/chocolate-ball.png);
     background-size: cover;
     background-position: center;
     left: 0;
@@ -235,7 +235,7 @@ ul.truffle-bowel {
     width: 3.5rem;
     height: 3.5rem;
     position: absolute;
-    background-image: url(/images-resized/bowel-of-truffles.png);
+    background-image: url(images-resized/bowel-of-truffles.png);
     background-size: cover;
     background-position: center;
     left: 0;

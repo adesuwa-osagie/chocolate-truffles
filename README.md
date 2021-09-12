@@ -43,6 +43,8 @@
 ## About The Project
 
 This is project #1 of freeCodeCamp.com's Responsive Web Design Certification.
+
+![Tribute Page](images/page-screenshot.png)
 <br/>
 <br/>
 
