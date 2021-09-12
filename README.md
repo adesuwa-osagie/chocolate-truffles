@@ -58,7 +58,9 @@ This is project #1 of freeCodeCamp.com's Responsive Web Design Certification.
 * ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3)
 <br/>
 <br/>
+
 ---
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
