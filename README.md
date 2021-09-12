@@ -44,8 +44,10 @@
 
 This is project #1 of freeCodeCamp.com's Responsive Web Design Certification.
 
-![Tribute Page](images/page-screenshot.png)
+<a href="https://adesuwa-osagie.github.io/chocolate-truffles/">![Tribute Page](images/page-screenshot.png)</a>
 <br/>
+
+![Tribute Page passing tests](images/page-passed.png)
 <br/>
 
 ### Built With
