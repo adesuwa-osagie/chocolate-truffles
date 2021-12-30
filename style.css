@@ -4,8 +4,6 @@
     box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Open+Sans&family=Sacramento&display=swap');
-
 :root {
     --darkChocolate: rgb(102, 54, 38);
     --caputMortuum: rgb(92, 51, 46);
@@ -43,7 +41,7 @@ h1 {
 
 p {
     margin-top: 1.5%;
-    font-family: 'Sacramento', cursive;
+    font-family: 'Kaushan Script', cursive;
     font-size: 3rem;
     color: var(--caputMortuum);
    
